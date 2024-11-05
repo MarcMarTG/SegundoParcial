@@ -1,1 +1,1 @@
-# SegundoParcial
+El proyecto consiste en desarrollar un sistema de gestión de productos que incluye un apartado de login, un apartado de registro y un dashboard que funcionará como menú principal. En el apartado de login, los usuarios existentes podrán acceder a sus cuentas de forma segura. El apartado de registro permitirá a nuevos usuarios crear cuentas ingresando datos esenciales y validando la información para garantizar la seguridad. Tras iniciar sesión, los usuarios accederán al dashboard.
